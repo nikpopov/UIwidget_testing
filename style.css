@@ -1,0 +1,22 @@
+.header {
+	margin: 0;
+	padding: 20px 0;
+}
+.logoContainer img {
+	display: inline-block;
+	width: 30%;
+	margin: 0 35%;
+	margin-top: 20px;
+}
+.formLogin {
+	margin: 0;
+	padding: 20px 0;
+}
+.labelLogin {
+	font-size: 12px;
+}
+.fieldLogin {
+	height: 25px;
+	padding: 4px 10px;
+	font-size: 12px;
+}
